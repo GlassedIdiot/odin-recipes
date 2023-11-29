@@ -1,1 +1,1 @@
-Hey. This is start of 1st odin-pronject.
+Hey. This is start of the 1st odin-project which is a part of the HTML basics.
